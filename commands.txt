@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=UauMQGqaxGo&t=1597s
+
 python3 -m venv venv
 pip install uvicorn
 pip install fastapi
