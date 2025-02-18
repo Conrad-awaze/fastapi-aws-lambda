@@ -20,7 +20,7 @@ jobs:
         run: pip3 install virtualenv
 
       - name: Create Virtual Environment
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         id: cache-env
         with:
           path: venv
